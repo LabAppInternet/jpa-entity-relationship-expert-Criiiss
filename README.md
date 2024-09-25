@@ -26,5 +26,5 @@ well as to write the SQL queries to the console. You can use this to check if JP
    - A `Note` can have multiple `Permission`s.
    - A `User` can have multiple `Permission`s.
    - A `Permission` is associated with a `Note` and a `User`. So, a permission has a composed key of `note_id` and `user_id`.
-
+ 
 This exercise will deepen your understanding of JPA and its role in mapping Java objects to relational database tables. Good luck!
